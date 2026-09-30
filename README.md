@@ -194,13 +194,13 @@ The model should therefore be viewed as a **decision-support tool** rather than 
 ```text
 customer-churn-prediction/
 │
-├── project.ipynb
+├── customer_churn_prediction.ipynb
 │   └── Complete analysis, preprocessing, modeling, and evaluation
 │
 ├── Telco-Customer-Churn.csv
 │   └── Original customer churn dataset
 │
-├── Customer Churn Prediction-Machine Learning1.docx
+├── Customer_Churn_Project_Report.docx
 │   └── Project documentation and report
 │
 └── README.md
